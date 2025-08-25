@@ -1,21 +1,20 @@
 
-# Project Title
+# This's my learning Github
 
-A brief description of what this project does and who it's for
+สหวัดดีครับนี้คือเว็บไชร์ของผมที่ผมได้เรียนรู้ไว้ดูเป็นตัวอย่างของผมนะครับ
 
 
 ## FAQ
 
-#### Question 1
+#### คุณเรียนจากไหนหรอ?
 
-Answer 1
+ตอบเลยผมว่าเรียนรู้ด้วยตัวเอง
 
-#### Question 2
+#### คุณมีความคิดสร้างสันแค่ไหน?
 
-Answer 2
+ผมไม่หมั่นใจเท่าไร เพราะผมหาแม่แบบเอา ^-^
 
 
 ## Feedback
-
-If you have any feedback, please reach out to us at fake@fake.com
+ถ้าคุณมี feedback เพี่มเตีม หลือข้อผิดพลาดปะการใด, โปรดติดต่อเราทางอีเมลนี้เลย fake@fake.com
 
